@@ -15,7 +15,7 @@ warnings.filterwarnings("ignore")
 # In[22]:
 
 
-df = pd.read_csv("C:\\Users\\HP\\Downloads\\archive\\SuicideChina.csv")
+df = pd.read_csv("SuicideChina.csv")
 df.head()
 
 
