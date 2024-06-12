@@ -12,6 +12,10 @@ https://github.com/wyl0923/Suicide-Attempts-in-ShanDong/assets/172492456/19cec7a
 
 ・ data visualization  
 # Installation/Run the py script
+First make sure python is installed.
+
+Using pandas，seaborn，sklearn.preprocessing in matplotlib.pyplot，LabelEncoder，warnings，pyodbc,stats in scipy, metrics in sklearn,linear_model in sklearn,preprocessing in sklearn,train_test_split in sklearn.model_selection ,RandomForestClassifier in sklearn.ensemble.  
+
 Starting SQL Server services can be done in several different ways.
 SQL Server is a powerful relational database management system that provides a variety of data services and solutions, including data analysis, reporting, integration, and collaboration. Before using SQL Server, it is important to ensure that its services are started so that you can establish a connection to the database and perform various operations. Several ways to start SQL Server services are detailed below:
 Using Command Prompt (CMD): open CMD and run it as administrator, enter the command net start mssqlserver, and after pressing the Enter key, the system will start the SQL Server service. This method is suitable for starting the service quickly, especially when the server cannot be accessed through the graphical interface.
