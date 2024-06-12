@@ -38,3 +38,5 @@ Overall, there are a variety of ways to start SQL Server, and choosing the right
 
 [6]Louis Favril, PhD , Rongqin Yu, PhD ,Prof John R Geddes, MD. Prof Seena Fazel, MD.Individual-level risk factors for suicide mortality in the general population: an umbrella review.November 2023,Volume 8Number 11e827-e904.
 
+# Todos
+Obtain correlation analysis of different labels in the dataset, and prediction of the data.
